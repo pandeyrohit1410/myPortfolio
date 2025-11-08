@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Rohit Pandey </span>
             from <span className="purple"> Patna, India.</span>
             <br />
-            I am currently employed as a frontend developer at Play Games24x7. 
+            I am currently employed as a SDE-1 (frontend) at ShopSe Digital Finance. 
             <br />
             I have completed Master of Computer Application (MCA) at Pondicherry University.
             <br />
